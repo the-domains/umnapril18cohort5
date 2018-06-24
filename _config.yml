@@ -16,12 +16,12 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: umnapril18cohort5
+name: Jagnoor's Portfolio
 layout_spectrum: 0.3241279572248459
 typography_spectrum: 0.09835403133183718
 content: []
 title: My Coding Bootcamp Journal
-description: My journey of surviving the coding bootcamp
+description: Jagnoor's Project Portfolio
 github: true
 url: 'https://thegrid.ai/JAGportfolio/'
 content_rating:
