@@ -1,0 +1,28 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.2115922060329467
+  lightness: 0.78505614772439
+  saturation: 0.4995831260457635
+  rhythmicContrast: 0.5127391300629824
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: umnapril18cohort5
+layout_spectrum: 0.3241279572248459
+typography_spectrum: 0.09835403133183718
+content: []
+title: My Coding Bootcamp Journal
+description: My journey of surviving the coding bootcamp
+github: true
+url: 'https://thegrid.ai/JAGportfolio/'
+content_rating:
+  adult: false
