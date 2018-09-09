@@ -26,3 +26,5 @@ github: true
 url: 'https://thegrid.ai/JAGportfolio/'
 content_rating:
   adult: false
+analytics:
+  twitter: 'https://twitter.com/JAGpictures'
